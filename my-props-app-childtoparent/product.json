@@ -1,0 +1,19 @@
+{
+  "product": [
+    {
+      "name": "mobile",
+      "price": 45000,
+      "quantity": 2,
+      "category": "electronic",
+      "id": "LGgbxaTn944"
+    },
+    {
+      "name": "laptop",
+      "price": "800000",
+      "quantity": "1",
+      "category": "electronic",
+      "id": "cgRDEUetKS0"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

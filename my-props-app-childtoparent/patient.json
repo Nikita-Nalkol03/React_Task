@@ -1,0 +1,13 @@
+{
+  "patient": [
+    {
+      "name": "kajal",
+      "age": 23,
+      "disease": "Fever",
+      "drname": "dr amit",
+      "roomno": 101,
+      "id": "oykO3OwIo38"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

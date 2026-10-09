@@ -1,0 +1,11 @@
+{
+    "vehicles": [
+    {
+      "id": "1",
+      "name": "Swift",
+      "number": "MH15AB1234",
+      "type": "Car",
+      "price": "600000"
+    }
+  ]
+}

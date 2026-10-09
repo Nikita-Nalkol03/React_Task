@@ -1,0 +1,21 @@
+{
+  "employees": [
+    {
+      "name": "nikita",
+      "role": "dev",
+      "salary": 12345,
+      "id": "Em91kVRVGlI"
+    },
+    {
+      "name": "vedika",
+      "role": "tester",
+      "salary": 123456,
+      "id": "U6abrIVN_iA"
+    }
+  ],
+
+  
+  "$schema": "./node_modules/json-server/schema.json"
+
+
+}

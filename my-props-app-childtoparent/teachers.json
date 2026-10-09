@@ -1,0 +1,11 @@
+{
+     "teachers": [
+    {
+      "id": "1",
+      "name": "Rahul Sharma",
+      "subject": "Maths",
+      "salary": "30000",
+      "experience": "5"
+    }
+  ]
+}

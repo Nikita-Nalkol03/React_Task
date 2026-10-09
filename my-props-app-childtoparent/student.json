@@ -1,0 +1,11 @@
+{
+  "students": [
+    {
+      "name": "rakhi",
+      "course": "java",
+      "fees": "80909",
+      "id": "zdfwFYSp7oo"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

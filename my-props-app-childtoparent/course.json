@@ -1,0 +1,10 @@
+{
+    "course":[
+        {
+            "coursename":"java",
+            "trainer":"tejas sir",
+            "duration":"6 month",
+            "fees":400000
+        }
+    ]
+}

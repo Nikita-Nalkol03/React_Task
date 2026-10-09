@@ -1,0 +1,12 @@
+{
+  "customer": [
+    {
+      "name": "vedika",
+      "city": "pune",
+      "mobile": 1234567898,
+      "age": 4,
+      "id": "7aaPyxvAu5s"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
