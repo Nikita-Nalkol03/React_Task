@@ -1,0 +1,30 @@
+{
+  "tikets": [
+    {
+      "name": "raj",
+      "dept": "tesing",
+      "issueType": "Internet",
+      "priority": "HIGH",
+      "status": "RESOLVED",
+      "id": "8NyTWBRwpmI"
+    },
+    {
+      "name": "neha",
+      "dept": "Development",
+      "issueType": "Internet",
+      "priority": "HIGH",
+      "status": "REJECT",
+      "id": "YQcOxfRryVk"
+    },
+    {
+      "name": "akash",
+      "dept": "Development",
+      "issueType": "Internet",
+      "priority": "HIGH",
+      "status": "RESOLVED",
+      "date": "2026-10-10T09:50:19.148Z",
+      "id": "1mVoXa8alP4"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
