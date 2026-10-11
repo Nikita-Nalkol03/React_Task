@@ -1,6 +1,8 @@
 import React, { useEffect, useState } from 'react'
 import './App.css'
 import axios from 'axios';
+import Employee from './Employee';
+import Student from './Student';
 
 
 const App = () => {
@@ -174,6 +176,11 @@ setForm({name : '' , dept : 'Development' , issueType: 'Internet' , priority : '
                 </tbody>
             </table>
       </center>
+      =====================================================================================================
+      *****************************************************************************************************
+      ======================================================================================================
+      {/* <Employee/> */}
+      <Student/>
     </div>
   )
 }

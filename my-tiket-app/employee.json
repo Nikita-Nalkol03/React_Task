@@ -1,0 +1,12 @@
+{
+  "employee": [
+    {
+      "name": "nikita",
+      "dept": "IT",
+      "salary": "900",
+      "designation": "Senior Software Developer",
+      "id": "RlrHwRrDBbI"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

@@ -24,6 +24,15 @@
       "status": "RESOLVED",
       "date": "2026-10-10T09:50:19.148Z",
       "id": "1mVoXa8alP4"
+    },
+    {
+      "name": "nikita",
+      "dept": "Testing",
+      "issueType": "Internet",
+      "priority": "HIGH",
+      "status": "OPEN",
+      "date": "2026-10-11T14:17:15.362Z",
+      "id": "ELYpjmnwF2M"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
