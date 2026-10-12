@@ -1,0 +1,14 @@
+{
+  "products": [
+    {
+      "name": "fan",
+      "category": "Electronics",
+      "price": "89999",
+      "quantity": "0",
+      "brand": "Puma",
+      "expirydate": "2026-10-14",
+      "id": "HjRg-X964z8"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

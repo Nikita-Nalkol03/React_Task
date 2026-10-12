@@ -3,6 +3,7 @@ import './App.css'
 import axios from 'axios';
 import Employee from './Employee';
 import Student from './Student';
+import Product from './Product';
 
 
 const App = () => {
@@ -180,7 +181,8 @@ setForm({name : '' , dept : 'Development' , issueType: 'Internet' , priority : '
       *****************************************************************************************************
       ======================================================================================================
       {/* <Employee/> */}
-      <Student/>
+      {/* <Student/> */}
+      <Product/>
     </div>
   )
 }
