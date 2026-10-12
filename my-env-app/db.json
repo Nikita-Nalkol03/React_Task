@@ -1,0 +1,17 @@
+{
+  "products": [
+    {
+      "name": "samsug 26 ultra",
+      "category": "mobile",
+      "price": 123455,
+      "id": "O2tR1syQ804"
+    },
+    {
+      "name": "Lenovo thinkpad",
+      "catagory": "Laptops",
+      "price": 170456,
+      "id": "Gsdqou64EWE"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
