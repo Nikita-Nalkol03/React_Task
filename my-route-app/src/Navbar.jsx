@@ -1,4 +1,4 @@
-import { Link } from "react-router-dom";
+import { Link, NavLink } from "react-router-dom";
 
 const Navbar = () => {
   return (
@@ -6,9 +6,15 @@ const Navbar = () => {
       <h2 >Routing App</h2>
 
       <div >
-        <Link to="/Home">Home</Link>{"|"}
-        <Link to="/mobile">Mobile</Link>{"|"}
-        <Link to="/kinds">Kids</Link>
+        <NavLink to="/Home">Home</NavLink>{"|"}
+        <NavLink to="/mobile">Mobile</NavLink>{"|"}
+        <NavLink to="/kinds">Kids</NavLink>{"|"}
+
+        <NavLink to="/Login">Login</NavLink>{" | "}
+        <NavLink to="/dashboard">Dashboard</NavLink>{ " | "}
+        <NavLink to={"/profile"}>Profile</NavLink> {" | "}
+            <NavLink to={"/message"}>Messages</NavLink> {" | "}
+
       </div>
     </nav>
   );
