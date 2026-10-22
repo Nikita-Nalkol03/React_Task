@@ -1,0 +1,33 @@
+{
+  "mobiles": [
+    {
+      "name": "iPhone 16",
+      "price": "159999",
+      "brand": "Apple",
+      "quantity": "3",
+      "id": "YZEI1kta7Rc"
+    },
+    {
+      "name": "iphone",
+      "price": "79999",
+      "brand": "Apple",
+      "quantity": "10",
+      "id": "rrkQsAYlF3U"
+    },
+    {
+      "name": "galaxy s25",
+      "price": "74999",
+      "brand": "samsug",
+      "quantity": "15",
+      "id": "q80q3uAU7n8"
+    },
+    {
+      "name": "Nord CE 4",
+      "price": "24999",
+      "brand": "OnePlus",
+      "quantity": "20",
+      "id": "PCeS8HG0I1s"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
