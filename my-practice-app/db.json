@@ -1,12 +1,18 @@
 {
   "employees": [
     {
-      "name": "akash",
-      "role": "tester",
-      "salary": "123456",
+      "name": "Akash ",
+      "role": "devloper",
+      "salary": "12345",
       "address": "pune",
-      "id": "H-nHPR41l2Y"
+      "id": "v91anAGsQqc"
     }
   ],
-  "$schema": "./node_modules/json-server/schema.json"
+  "admin":[
+    {
+      "email":"nikita@gmail.com",
+      "password":"admin123"
+    }
+  ]
+  
 }
