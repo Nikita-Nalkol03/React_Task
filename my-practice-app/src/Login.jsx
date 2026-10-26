@@ -26,6 +26,7 @@ const Login = () => {
   return (
     <div>
         <center>
+            <h1>Employee Management System</h1>
             <form onSubmit={handleSubmit}>
                 <input type="text" name="email" value={form.email} onChange={handleChange} placeholder='Enter Email' required /><br/>
                 <input type="text" name="password" value={form.password} onChange={handleChange} placeholder='Enter password' required /><br/>

@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "name": "iphone",
+      "price": "15559",
+      "cate": "mobile",
+      "quantity": "2",
+      "id": "HkRlF0YwxQw"
+    },
+    {
+      "name": "Laptop",
+      "price": "55000",
+      "cate": "Electronics",
+      "quantity": "5",
+      "id": "4Lck18JD6lQ"
+    },
+    {
+      "name": "Mouse",
+      "price": "500",
+      "cate": "Electronics",
+      "quantity": "15",
+      "id": "KG-jOcCNFPo"
+    },
+    {
+      "name": "oppo",
+      "price": "15000",
+      "cate": "mobile",
+      "quantity": "5",
+      "id": "bKYDcoMuXbs"
+    },
+    {
+      "name": "keyboard",
+      "price": "1200",
+      "cate": "electronics",
+      "quantity": "4",
+      "id": "fC6TwP8hekA"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
