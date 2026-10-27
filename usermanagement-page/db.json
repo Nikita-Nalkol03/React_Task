@@ -1,0 +1,13 @@
+{
+  "users": [
+    {
+      "name": "nikita nalkol",
+      "email": "nikita@gmail.com",
+      "role": "dev",
+      "joindate": "12-09-2026",
+      "status": "Active",
+      "id": "dMvTVHtTUqE"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
