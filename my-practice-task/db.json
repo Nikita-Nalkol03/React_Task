@@ -1,0 +1,71 @@
+{
+  "users": [
+    {
+      "fullName": "Rahul Patil",
+      "email": "rahul@gmail.com",
+      "phone": "9876543210",
+      "age": 25,
+      "gender": "Male",
+      "city": "Pune",
+      "role": "Admin",
+      "status": "Active",
+      "id": "QUKPUXRRQQ8"
+    },
+    {
+      "fullName": "Priya Sharma",
+      "email": "priya@gmail.com",
+      "phone": "9876543211",
+      "age": 23,
+      "gender": "Female",
+      "city": "Mumbai",
+      "role": "User",
+      "status": "Active",
+      "id": "l2hF8MTZHB0"
+    },
+    {
+      "fullName": "Amit Joshi",
+      "email": "amit@gmail.com",
+      "phone": "9876543212",
+      "age": 28,
+      "gender": "Male",
+      "city": "Nashik",
+      "role": "Manager",
+      "status": "Inactive",
+      "id": "IjYKtnsQlmk"
+    },
+    {
+      "fullName": "nikita",
+      "email": "nikita@gmail.com",
+      "phone": "8978767",
+      "age": "23",
+      "gender": "Female",
+      "city": "pune",
+      "role": "Admin",
+      "status": "Active",
+      "id": "O7aUXfFVlwg"
+    },
+    {
+      "fullName": "jhj",
+      "email": "fjsfhj",
+      "phone": "7687",
+      "age": "32",
+      "gender": "Male",
+      "city": "pune",
+      "role": "User",
+      "status": "Active",
+      "id": "8iLF7nZmevg"
+    },
+    {
+      "fullName": "rttyt",
+      "email": "jhk",
+      "phone": "jhjhkhk",
+      "age": "23",
+      "gender": "Male",
+      "city": "mumbai",
+      "role": "Admin",
+      "status": "InActive",
+      "id": "WGXNOrOQAOY"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
